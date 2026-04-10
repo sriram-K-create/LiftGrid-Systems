@@ -8,6 +8,9 @@
 LiftGrid Systems is an intelligent elevator control platform built for large commercial buildings across India — corporate towers, malls, airports, hospitals, and high-rise residential complexes.
 This repository contains the **Entity Relationship Diagram** for the backend database that powers the platform. The schema is designed to support multi-building infrastructure management, real-time ride requests, elevator allocation, status monitoring, and maintenance tracking.
 
+## Diagram
+
+> 📎 See [`LiftGrid_ERD.pdf`](./LiftGrid_ERD (2).pdf) for the full ER diagram.
 
 ## Entities
 

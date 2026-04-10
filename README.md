@@ -11,6 +11,8 @@ This repository contains the **Entity Relationship Diagram** for the backend dat
 ## Diagram
 
 > 📎 See [`LiftGrid_ERD.pdf`]([./LiftGrid_ERD.pdf]) for the full ER diagram.
+> <img width="1999" height="1414" alt="image" src="https://github.com/user-attachments/assets/ce5a7877-e66c-4fd9-891d-e99c07a2a30a" />
+
 
 ## Entities
 

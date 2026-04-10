@@ -10,7 +10,7 @@ This repository contains the **Entity Relationship Diagram** for the backend dat
 
 ## Diagram
 
-> 📎 See [`LiftGrid_ERD.pdf`]([./LiftGrid_ERD.pdf]) for the full ER diagram.
+> 📎 See [`LiftGrid_ERD.pdf`]([LiftGrid_ERD.pdf]) for the full ER diagram.
 
 ## Entities
 
